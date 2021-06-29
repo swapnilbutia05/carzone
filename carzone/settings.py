@@ -28,7 +28,7 @@ SECRET_KEY = 'wl(i$$e7=^9*zhyaeo8xw48*t$*o1a$v93)4&c&1*l1n1@ugg='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['murmuring-tundra-58266.herokuapp', 'carzoneapp.co', 'www.carzoneapp.co']
 
 
 LOGIN_REDIRECT_URL = 'dashboard'
